@@ -1,0 +1,1 @@
+The source code saves training and validation process outputs as a numpy array in order to visiualize them later.
